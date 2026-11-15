@@ -24,7 +24,7 @@ Unlike privacy tools focused solely on deleting your footprint, PDT helps you ma
 
 ### 2. Installation
 ```bash
-git clone https://github.com
+git clone https://github.com/tom-palarz/pdt
 cd pdt
 cp .env.example .env
 go build -o bin/pdt ./cmd/pdt
