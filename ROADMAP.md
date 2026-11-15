@@ -1,5 +1,11 @@
 # PDT Roadmap
 
+## Phase 0: Initial Design
+- [ ] [CLI Design and Initial Use Cases](https://github.com/tom-palarz/pdt/issues/1)
+- [ ] [Test Driven Development Documentation](https://github.com/tom-palarz/pdt/issues/2)
+- [ ] [Initial Test Case](https://github.com/tom-palarz/pdt/issues/3)
+- [ ] [Document initial test cases](https://github.com/tom-palarz/pdt/issues/4)
+
 ## Phase 1: Foundation & Gmail Core (v0.1.0)
 - [ ] CLI scaffolding with Cobra (`init`, `import`, `sync`, `query`, `labels`, `prune`)
 - [ ] Local SQLite schema for messages, headers, labels, and sync cursors
