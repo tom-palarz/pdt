@@ -1,0 +1,26 @@
+# Binaries and build output
+/bin/
+/dist/
+pdt
+*.exe
+
+# Local data & archives (NEVER commit personal data)
+*.mbox
+*.db
+*.sqlite
+*.sqlite3
+.pdt/
+
+# Secrets & OAuth tokens
+.env
+.env.local
+credentials.json
+token.json
+*.pem
+*.key
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
+
